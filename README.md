@@ -5,6 +5,6 @@ ABSTRACT: We consider the magnetoelectric effect produced by a capacitor formed 
 
 RESUMEN: Se estudió el efecto magnetoeléctrico producido por un capacitor formado por dos placas semiesféricas perfectamente conductoras sometidas a una diferencia de potencial y rodeadas por cascarón esférico de un material topológico. Las ecuaciones de Maxwell modificadas se resuelven en términos de potenciales escalares eléctricos y magnéticos acoplados usando coordenadas esféricas y en la aproximación donde el acoplamiento magnetoeléctrico efectivo es del orden de la constante de estructura fina. Se enfatiza el cálculo del campo magnético para varias configuraciones que mejoran la posibilidad de medir este campo. Las magnitudes que obtenemos se encuentran dentro de las sensibilidades de los magnetómetros basados en centros NV en diamantes, así como de dispositivos que utilizan magnetometría SQUID.
 
-* https://arxiv.org/abs/2007.09779
-* https://iopscience.iop.org/article/10.1088/1402-4896/aba584
-* https://ru.dgb.unam.mx/handle/DGB_UNAM/TES01000803928
+* [Published paper](https://iopscience.iop.org/article/10.1088/1402-4896/aba584)
+* [arXiv](https://arxiv.org/abs/2007.09779)
+* [My bachelor thesis](https://ru.dgb.unam.mx/handle/DGB_UNAM/TES01000803928)
