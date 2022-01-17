@@ -5,3 +5,4 @@ We consider the magnetoelectric effect produced by a capacitor formed by two sem
 
 * https://arxiv.org/abs/2007.09779
 * https://iopscience.iop.org/article/10.1088/1402-4896/aba584
+* https://ru.dgb.unam.mx/handle/DGB_UNAM/TES01000803928
